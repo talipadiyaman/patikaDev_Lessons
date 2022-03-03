@@ -15,6 +15,7 @@ Bir düğüm her iki tarafa da referans verebiliyor. Sağ ve sol olarak. Sağ ta
 **Çözüm ; **
 
 					 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+					 
 					 				5
 						4						6
 					3								7
